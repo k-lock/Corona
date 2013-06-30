@@ -2,6 +2,6 @@
 
 Contains projects of:
 
- * **Silksworm** - A game project.
+ * **Silksworm** - A mobile game project.
 
  and ...
